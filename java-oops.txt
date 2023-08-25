@@ -1,0 +1,5 @@
+Links for understanding oops concept : 
+
+Blog Links: 
+-> https://howtodoinjava.com/java/oops/encapsulation-in-java-and-its-relation-with-abstraction/
+-> https://howtodoinjava.com/java/oops/understanding-abstraction-in-java/
